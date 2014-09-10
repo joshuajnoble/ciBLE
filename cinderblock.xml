@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<cinder>
+<block
+	name="ciBLE"
+	id="org.libcinder.ciBLE"
+	author="Cinder Project"
+	license="MIT"
+	summary="BLE for ci apps"
+	version="4.44.06"
+	>
+	<includePath>include</includePath>
+</block>
+</cinder>
